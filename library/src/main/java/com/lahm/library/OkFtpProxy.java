@@ -8,5 +8,5 @@ package com.lahm.library;
  * More code see my github https://github.com/lamster2018
  */
 public interface OkFtpProxy {
-
+    void addTaskToQueue();
 }
